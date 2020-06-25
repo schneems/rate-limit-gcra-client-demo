@@ -8,7 +8,7 @@ GEM
     nio4r (2.5.1)
     puma (4.1.0)
       nio4r (~> 2.0)
-    rack (2.0.7)
+    rack (2.1.4)
     rake (12.3.3)
     rmagick (2.16.0)
     rspec (3.8.0)
